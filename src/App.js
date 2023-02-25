@@ -16,7 +16,7 @@ function App() {
           `https://api.api-ninjas.com/v1/emoji?name=${searchTerm}`,
           {
             headers: {
-              'X-API-Key': 'qBZuwjX8NfzALoxrBxIkgw==ChhTJoBr4o1FloIj'
+              'X-API-Key': 'your_API_KEY'
             }
           }
         );
